@@ -1,2 +1,2 @@
-![visualization of a simulation result,](./Case a.png)
+![visualization of a simulation result](./Case_a.png)
 
